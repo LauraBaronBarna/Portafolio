@@ -363,9 +363,8 @@ html{
     align-items: center;
     min-height: 100vh;
     color: #ffffff;
-    
 }
-.form-content p {
+.form-content p{
     font-family: 'Poppins',sans-serif;
     font-size: 20px;
 }
