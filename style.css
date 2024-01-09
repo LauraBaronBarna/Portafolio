@@ -365,6 +365,10 @@ html{
     color: #ffffff;
     
 }
+.form-content p {
+    font-family: 'Poppins',sans-serif;
+    font-size: 20px;
+}
 .form-content{
     background-image:url(img/contactame.jpg);
     background-position: center;
